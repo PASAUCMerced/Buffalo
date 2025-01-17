@@ -39,7 +39,7 @@ python setup.py build_ext --inplace
 alias python='python3'  
 source ~/.bashrc  
 
-Then use 10 files in https://github.com/HaibaraAiChan/dgl_range_sampler.git to replace the 
+Then use 10 files in https://github.com/PASAUCMerced/Range_sampler.git  to replace the 
 10 files in the original dgl    
 ~~~
 
